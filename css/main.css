@@ -1,0 +1,30 @@
+body {
+    color: blue;
+}
+h1 {
+    font-size: 3em;
+}
+#mainHeading {
+    color: red;
+}
+.heading {
+    color: pink;
+}
+/*
+http://getbootstrap.com/
+ID > class/element > parent
+
+*/
+@media (max-width: 480px) {
+    #mainHeading {
+        color: green;
+    }
+}
+@media (min-width: 650px) {
+    #mainHeading {
+        color: green;
+    }
+    span {
+        display: none;
+    }
+}
