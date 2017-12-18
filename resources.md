@@ -1,4 +1,4 @@
-#Resources:
+# Resources:
 - Sublime Text 3: https://www.sublimetext.com/3
 - Git commandline / git-bash: http://git-scm.org
 - GitHub - free opensource code hosting: http://github.com
